@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SpellBinder",
-    "slug": "SpellBinder",
+    "name": "Tutorial",
+    "slug": "Tutorial",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/coffee-icon.png",
@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/coffee-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.Tutorial"
     },
     "web": {
       "bundler": "metro",
